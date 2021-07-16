@@ -1,0 +1,5 @@
+http://194.58.119.197/
+http://194.58.119.197/products/
+http://194.58.119.197/contact/
+http://194.58.119.197/order/
+http://194.58.119.197/products/category/2/
