@@ -1,5 +1,8 @@
-http://194.58.119.197/
-http://194.58.119.197/products/
-http://194.58.119.197/contact/
-http://194.58.119.197/order/
-http://194.58.119.197/products/category/2/
+http://127.0.0.1:8000/products/update/1/
+http://127.0.0.1:8000/products/update/2/
+http://127.0.0.1:8000/products/update/4/
+http://127.0.0.1:8000/products/update/6/
+http://127.0.0.1:8000/products/update/7/
+http://127.0.0.1:8000/products/update/8/
+http://127.0.0.1:8000/products/update/10/
+http://127.0.0.1:8000/products/update/11/
