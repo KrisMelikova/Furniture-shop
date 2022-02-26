@@ -87,7 +87,7 @@ WSGI_APPLICATION = 'geekshop.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/1.10/ref/settings/#databases
 
-'''
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
@@ -105,6 +105,7 @@ DATABASES = {
     }
 }
 
+'''
 
 # Password validation
 # https://docs.djangoproject.com/en/1.10/ref/settings/#auth-password-validators
@@ -170,13 +171,14 @@ if DEBUG:
 
 STATIC_URL = '/static/'
 
+'''
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 
 '''
 STATICFILES_DIRS = (
     os.path.join(BASE_DIR, "static"),
 )
-'''
+
 
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 MEDIA_URL = '/media/'
